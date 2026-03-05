@@ -28,7 +28,7 @@ The project focuses on creating a clean, responsive, and visually appealing user
 
 ## Live Demo
 
-(Will be deployed on Vercel)
+https://saudi-coffee.vercel.app
 
 ## Author
 
