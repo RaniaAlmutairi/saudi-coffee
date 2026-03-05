@@ -1,11 +1,36 @@
+# Saudi Coffee
 
-  # Personal Brand Logo Design
+A modern Saudi e-commerce interface for a Saudi specialty coffee store.
+The project focuses on creating a clean, responsive, and visually appealing user experience for browsing coffee products.
 
-  This is a code bundle for Personal Brand Logo Design. The original project is available at https://www.figma.com/design/0yL4pOGms86hHWY8fUSFBU/Personal-Brand-Logo-Design.
+## Features
 
-  ## Running the code
+* Modern landing page with hero section
+* Arabic RTL layout
+* Product cards with ratings and pricing
+* Product filtering and search
+* Responsive design for desktop and mobile
+* Clean UI inspired by modern coffee brands
 
-  Run `npm i` to install the dependencies.
+## Pages
 
-  Run `npm run dev` to start the development server.
-  
+* Home page
+* Products page
+* About section
+* Contact section
+
+## Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* React (Vite)
+
+## Live Demo
+
+(Will be deployed on Vercel)
+
+## Author
+
+Rania Almutairi
+Front-End Developer
